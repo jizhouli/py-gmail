@@ -1,5 +1,5 @@
 # py-gmail
-a handful gmail sender library
+a easy-to-use gmail sender library
 
 ### Usage
     gmail = PyGmail("Justin's Baymax")
